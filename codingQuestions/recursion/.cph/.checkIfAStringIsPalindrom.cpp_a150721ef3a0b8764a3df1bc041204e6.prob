@@ -1,0 +1,1 @@
+{"name":"Local: checkIfAStringIsPalindrom","url":"e:\\Coding\\codingQuestions\\recursion\\checkIfAStringIsPalindrom.cpp","tests":[{"id":1654954784905,"input":"abba","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\codingQuestions\\recursion\\checkIfAStringIsPalindrom.cpp","group":"local","local":true}

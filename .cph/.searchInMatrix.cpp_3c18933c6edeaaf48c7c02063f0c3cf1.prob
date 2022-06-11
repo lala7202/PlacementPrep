@@ -1,0 +1,1 @@
+{"name":"Local: searchInMatrix","url":"e:\\Coding\\searchInMatrix.cpp","tests":[{"id":1650277205173,"input":"3 3 4\n1 2 3 4 5 6 7 8 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\searchInMatrix.cpp","group":"local","local":true}

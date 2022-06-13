@@ -1,0 +1,1 @@
+{"name":"Local: subsetssumProblem","url":"e:\\Coding\\codingQuestions\\recursion\\subsetssumProblem.cpp","tests":[{"id":1655118258536,"input":"5\n1 2 3 4 1\n185","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\codingQuestions\\recursion\\subsetssumProblem.cpp","group":"local","local":true}
